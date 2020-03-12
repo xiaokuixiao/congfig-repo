@@ -1,4 +1,4 @@
-env: env1212
+env: env1
 eureka:
   client:
     service-url:
