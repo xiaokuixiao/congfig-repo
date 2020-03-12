@@ -1,4 +1,4 @@
-env: dev1
+env: dev2
 #eureka:
  # client:
   #  service-url:
