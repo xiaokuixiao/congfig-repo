@@ -1,7 +1,7 @@
 person:
-  id:  1212
-  name:  zhangsan
-  address:  zhangsan
+  id:  1
+  name:  zhangsan1
+  address:  zhangsan1
 env: dev6
 #eureka:
  # client:
