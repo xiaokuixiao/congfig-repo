@@ -1,7 +1,7 @@
 person:
-  id: 1212f
+  id:  1212
   name:  zhangsan
-  address:  bejing
+  address:  zhangsan
 env: dev6
 #eureka:
  # client:
