@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url:  jdbc:mysql://localhost:3308/pm10?useUnicode=true&serverTimezone=CTT
+    username: root
+    password:  123456
+  redis:
+    host: 172.20.10.5
+    port:  6379
+  rabbitmq:
+    host:  172.20.10.5
+    password:  guest
+    username:  guest
+    port: 5672
+  application:
+    name: user
+server:
+  port: 9999
