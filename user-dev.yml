@@ -12,7 +12,5 @@ spring:
     password:  guest
     username:  guest
     port: 5672
-  application:
-    name: user
 server:
   port: 9999
