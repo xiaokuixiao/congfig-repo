@@ -11,5 +11,4 @@ spring:
       profile: dev
   application:
     name: api-gateway
-server:
-  port: 8090
+
