@@ -1,2 +1,15 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8762/eureka/
+spring:
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: CONFIGSERVER
+      profile: dev
+  application:
+    name: api-gateway
 server:
-  port: 8989
+  port: 8090
